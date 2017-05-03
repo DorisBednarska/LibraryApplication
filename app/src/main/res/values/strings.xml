@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Samples</string>
+    <string name="field_required">This field is required.</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="newBook">New Book</string>
+    <string name="title">Title</string>
+    <string name="author">Autor</string>
+    <string name="isbn">Isbn</string>
+    <string name="add_new">Add</string>
+</resources>

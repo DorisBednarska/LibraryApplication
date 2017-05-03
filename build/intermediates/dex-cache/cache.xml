@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Doris Bednarska\.android\build-cache\9456ebcda6368dd034f86e76ad586a86e50adfed\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="C:\Users\Doris Bednarska\Desktop\Biblioteka\samples\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8271b369f5676f63d8a380309ad268769afca07f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Doris Bednarska\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.5.1\bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc\butterknife-annotations-8.5.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bb67dad90bab7cd77a8f7f1b8442b47e3a2326bc">
+        <dex dex="C:\Users\Doris Bednarska\Desktop\Biblioteka\samples\app\build\intermediates\transforms\dex\debug\folders\1000\10\butterknife-annotations-8.5.1_fa159981a16224a5b024785132aec3f87875ac0c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Doris Bednarska\.android\build-cache\8275b005cdf237e0399fe15684a8d258b2f62410\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="C:\Users\Doris Bednarska\Desktop\Biblioteka\samples\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ac06c24ce807f70bd9b50e918ccb10a9de144b8c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Doris Bednarska\.android\build-cache\ed6d89f60d531815c4895461e923753b2cca7066\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="C:\Users\Doris Bednarska\Desktop\Biblioteka\samples\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_1f2fe06cad3c25da849b35a3d1f9ed2b12f9c7dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Doris Bednarska\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.6.0\69edde9fc4b01c9fd51d25b83428837478c27254\okhttp-3.6.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="C:\Users\Doris Bednarska\Desktop\Biblioteka\samples\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.6.0_cd9f83bf2b251f2b19577e7c3810ed9238cb5ac1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Doris Bednarska\.gradle\caches\modules-2\files-2.1\org.apache.commons\commons-lang3\3.0\8873bd0bb5cb9ee37f1b04578eb7e26fcdd44cb0\commons-lang3-3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8873bd0bb5cb9ee37f1b04578eb7e26fcdd44cb0">
+        <dex dex="C:\Users\Doris Bednarska\Desktop\Biblioteka\samples\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-lang3-3.0_e3772cf6922d7f2426fb1e561846e5dd10c98675\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Doris Bednarska\Desktop\Biblioteka\samples\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7a03fc31ec08e2a1f09180888bda7b9c4e9a1cd7">
+        <dex dex="C:\Users\Doris Bednarska\Desktop\Biblioteka\samples\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ed3d902cfc7b4c3439bfeb4e8da106f581d044dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Doris Bednarska\.android\build-cache\9456ebcda6368dd034f86e76ad586a86e50adfed\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="C:\Users\Doris Bednarska\Desktop\Biblioteka\samples\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_6eef25656024462273919256fac6d5d1369f5bb9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Doris Bednarska\.android\build-cache\c40e568d84393ce707300c3954d0c9339bcc40b2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\Doris Bednarska\Desktop\Biblioteka\samples\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9c9f8adfc6feb6193fb4d4085eb8d3558fab275e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Doris Bednarska\.android\build-cache\9938f8bfb677b3d655ca20dd87f205003bbaa76e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\Doris Bednarska\Desktop\Biblioteka\samples\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e81f6ec2dba620cbf976b4bce2dc7ec8321c8e7a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Doris Bednarska\.android\build-cache\d390f02341907c419617c408dab76c1795d528c6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Doris Bednarska\Desktop\Biblioteka\samples\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4039facdd7c3c264b803864ce1125d08c7675b60\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Doris Bednarska\.android\build-cache\d5e396bc9dd5fb315d66e16e358c2138e094ca89\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="C:\Users\Doris Bednarska\Desktop\Biblioteka\samples\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_334edf7d8c25ae771856fffdc8fad0c5a10140ed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Doris Bednarska\.android\build-cache\78b34d6595f9fff42ef3405903b5da59e0f2a710\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="03c95551daed17451c2dfd0cf0625a866872b7b6">
+        <dex dex="C:\Users\Doris Bednarska\Desktop\Biblioteka\samples\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7f8f0d1cf66088938557445750909d472191afac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Doris Bednarska\.gradle\caches\modules-2\files-2.1\commons-io\commons-io\2.0.1\7ffdb02f95af1c1a208544e076cea5b8e66e731a\commons-io-2.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7ffdb02f95af1c1a208544e076cea5b8e66e731a">
+        <dex dex="C:\Users\Doris Bednarska\Desktop\Biblioteka\samples\app\build\intermediates\transforms\dex\debug\folders\1000\10\commons-io-2.0.1_a386938f3a88686207bf5844d1377cf7bd39e99a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Doris Bednarska\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.11.0\840897fcd7223a8143f1d9b6f69714e7be34fd50\okio-1.11.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="C:\Users\Doris Bednarska\Desktop\Biblioteka\samples\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.11.0_6524a21980f05f03597e4633bdbffc7c5859239e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Doris Bednarska\.android\build-cache\5460f7120a40b2627faaa93d9c8cde008d2887fe\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="C:\Users\Doris Bednarska\Desktop\Biblioteka\samples\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5cb6f35122677ba245d99bf1c373b76d14c66c67\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Doris Bednarska\.android\build-cache\4b9e7edd3758691c3a29d237e4b387248d0816b0\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="C:\Users\Doris Bednarska\Desktop\Biblioteka\samples\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_76f0ce1564b472b9c84de089ebe7546a3f481fa8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Doris Bednarska\.android\build-cache\45681f19a300570ef2a474496efc051a049f7df7\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="C:\Users\Doris Bednarska\Desktop\Biblioteka\samples\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_f711e701f1ce64c694121945e6976e0f92042ded\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Doris Bednarska\.android\build-cache\b8737e3b0c092b170bc54d81477236b5d1485cba\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="C:\Users\Doris Bednarska\Desktop\Biblioteka\samples\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3d958f7f7c56e2084fcf5a591f1cf95f3a03f134\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Doris Bednarska\.android\build-cache\241028ce241475c2db9658ac84c83552212a657a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="19f281a785ca0eb5f6799fc7bf7ca199a9ca1e8b">
+        <dex dex="C:\Users\Doris Bednarska\Desktop\Biblioteka\samples\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6cecc70b43462f55c750cd23a024bc4dce7dc43b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Doris Bednarska\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.7\751f548c85fa49f330cecbb1875893f971b33c4e\gson-2.7.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="C:\Users\Doris Bednarska\Desktop\Biblioteka\samples\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.7_5afd63d1ed6a7712c806a5b19a064b0c035f66e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Doris Bednarska\.android\build-cache\d5e396bc9dd5fb315d66e16e358c2138e094ca89\output\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Users\Doris Bednarska\Desktop\Biblioteka\samples\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.1_21c2eb4ca293611c3e3d7e6f9fe49853b9043673\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Doris Bednarska\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.2.0\a09926806199499a20b2f5168779499abfa33342\converter-gson-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09926806199499a20b2f5168779499abfa33342">
+        <dex dex="C:\Users\Doris Bednarska\Desktop\Biblioteka\samples\app\build\intermediates\transforms\dex\debug\folders\1000\10\converter-gson-2.2.0_a71d72999941bb408de68f15f534a2f6d59df134\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Doris Bednarska\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\Doris Bednarska\Desktop\Biblioteka\samples\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_02ae7440f8318937b83a317904a99df4d7749fb4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Doris Bednarska\Desktop\Biblioteka\samples\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\Doris Bednarska\Desktop\Biblioteka\samples\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_a430d8fc7f6bf88a06179cfc2f30d806c40a9356\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Doris Bednarska\.android\build-cache\45681f19a300570ef2a474496efc051a049f7df7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="C:\Users\Doris Bednarska\Desktop\Biblioteka\samples\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_abf47eeaec33fc0cdffcc3ebb3b8dc8991f8ad22\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Doris Bednarska\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\Doris Bednarska\Desktop\Biblioteka\samples\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.5.2_13bef179050393ae2d11f69535f7ee7da1187de5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Doris Bednarska\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.2.0\41e67dba73c3347e4503761642c39d0e06ca1f2\retrofit-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="041e67dba73c3347e4503761642c39d0e06ca1f2">
+        <dex dex="C:\Users\Doris Bednarska\Desktop\Biblioteka\samples\app\build\intermediates\transforms\dex\debug\folders\1000\10\retrofit-2.2.0_487ab9470ee543b3e30b7c47b63c687f0b5ae14c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Doris Bednarska\.android\build-cache\be07c7339cf325e61ee85cb31ea8342a8d83e660\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="C:\Users\Doris Bednarska\Desktop\Biblioteka\samples\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_82c8bf4cfc5cbc4815b1e5393f52744df1ba7187\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Doris Bednarska\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\Doris Bednarska\Desktop\Biblioteka\samples\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_ae99246d60a08f8266b8e6b9bedc1e69782fe222\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Doris Bednarska\.android\build-cache\1d654430fa76c076c3a7030d8bb1e669ac42bde8\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="C:\Users\Doris Bednarska\Desktop\Biblioteka\samples\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_646f3fc1a0ed82b702b88c5886944dd44e26e1d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Doris Bednarska\.android\build-cache\ed6d89f60d531815c4895461e923753b2cca7066\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="C:\Users\Doris Bednarska\Desktop\Biblioteka\samples\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_88bf667643427c27669f395cc4c4c3e574706bd2\classes.dex" />
+    </item>
+
+</items>

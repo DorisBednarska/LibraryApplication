@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="leanback-v17-25.0.1">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/78b34d6595f9fff42ef3405903b5da59e0f2a710/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/78b34d6595f9fff42ef3405903b5da59e0f2a710/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/AppData/Local/Android/Sdk/extras/android/m2repository/com/android/support/leanback-v17/25.0.1/leanback-v17-25.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
